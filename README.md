@@ -10,7 +10,7 @@
    <li>Access current weather data for any location</li>
    <li>We collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations</li>
    <li>JSON, XML, and HTML formats</li>
-   <li>Included in both free and paid subscrip</li>
+   <li>Included in both free and paid subscriptions</li>
 </ul>
 
 <p>Segue abaixo o link da documentaçãod a API</p>
